@@ -1,2 +1,2 @@
-# BoardFootCalculator
-Converts board-foot material pricing to linear or area pricing.
+# Pricing Calculator
+Converts various material pricing formats to linear or area pricing.
